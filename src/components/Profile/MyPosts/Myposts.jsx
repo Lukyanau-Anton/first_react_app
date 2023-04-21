@@ -1,6 +1,7 @@
 import React from "react";
 import style from './Myposts.module.css'
 import Post from "./Post/Post";
+
 const Myposts = () => {
     return (
         <div>
