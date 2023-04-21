@@ -1,0 +1,11 @@
+.header {
+    grid-area: header;
+    background-color: #6a3dda;
+    position: sticky;
+    top: 0;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+}
